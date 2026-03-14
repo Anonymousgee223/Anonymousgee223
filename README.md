@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @Anonymousgee223
-- 👀 I’m interested in ...hacking
-- 🌱 I’m currently learning ...hacking 
-- 💞️ I’m looking to collaborate on ...coding
-- 📫 How to reach me ...email
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Anonymousgee223/Anonymousgee223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+npm install -g vercel
+vercel login
+vercel --prod --name birds-and-bites-ventures
